@@ -2,7 +2,7 @@
   $host = 'localhost';    // Change as necessary
   $data = 'classics'; // Change as necessary
   $user = 'root';         // Change as necessary
-  $pass = 'igor24';        // Change as necessary
+  $pass = 'YOUR_PASS';        // Change as necessary
   $chrs = 'utf8mb4';
   $attr = "mysql:host=$host;dbname=$data;charset=$chrs";
   $opts =
